@@ -1,0 +1,81 @@
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.exe.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.exe
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\EntityFramework.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\EntityFramework.xml
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.Form1.resources
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.FrmEgitim.resources
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.FrmKanGrup.resources
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.Properties.Resources.resources
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.GenerateResource.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.CopyComplete
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.exe
+C:\Users\iau\source\repos\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.pdb
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.exe.config
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.exe
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.pdb
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.dll
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.dll
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.dll
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\EntityFramework.dll
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.dll
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.pdb
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.dll.config
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.pdb
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.dll.config
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.pdb
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.dll.config
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\EntityFramework.xml
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.pdb
+E:\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.dll.config
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csprojAssemblyReference.cache
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.Form1.resources
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.FrmEgitim.resources
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.FrmKanGrup.resources
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.Properties.Resources.resources
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.GenerateResource.cache
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.CoreCompileInputs.cache
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.CopyComplete
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.exe
+E:\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.exe.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.exe
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.Win.UI.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\EntityFramework.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.BL.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.ENT.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.REP.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\EntityFramework.xml
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\bin\Debug\Katmanli.DAL.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csprojAssemblyReference.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.Form1.resources
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.FrmEgitim.resources
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.FrmKanGrup.resources
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.Properties.Resources.resources
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.GenerateResource.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.CoreCompileInputs.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.csproj.CopyComplete
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.exe
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.Win.UI\obj\Debug\Katmanli.Win.UI.pdb

@@ -1,0 +1,51 @@
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.xml
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.CopyComplete
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.Migrations.Ilk.resources
+C:\Users\iau\source\repos\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.GenerateResource.cache
+E:\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll.config
+E:\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll
+E:\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.pdb
+E:\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.dll
+E:\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll
+E:\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.pdb
+E:\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll.config
+E:\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.xml
+E:\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csprojAssemblyReference.cache
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.CoreCompileInputs.cache
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.CopyComplete
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.dll
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.pdb
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.Migrations.Ilk.resources
+E:\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.GenerateResource.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.xml
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csprojAssemblyReference.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.Migrations.Ilk.resources
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.GenerateResource.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.CoreCompileInputs.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csproj.CopyComplete
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.pdb

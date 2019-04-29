@@ -1,0 +1,54 @@
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.pdb
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll.config
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.xml
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csproj.CopyComplete
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.dll
+C:\Users\iau\source\repos\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.pdb
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll.config
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.pdb
+E:\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.dll
+E:\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.dll
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.pdb
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll.config
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.pdb
+E:\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll.config
+E:\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.xml
+E:\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.xml
+E:\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csprojAssemblyReference.cache
+E:\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csproj.CoreCompileInputs.cache
+E:\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csproj.CopyComplete
+E:\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.dll
+E:\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.REP.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.pdb
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll.config
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.xml
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.xml
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csprojAssemblyReference.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csproj.CoreCompileInputs.cache
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csproj.CopyComplete
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.dll
+F:\Ocak\Katmalı Mimari\Katmanli\Katmanli.REP\obj\Debug\Katmanli.REP.pdb
